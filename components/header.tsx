@@ -48,7 +48,7 @@ export function Header() {
 
         <nav className="hidden md:flex items-center gap-6">
           <a
-            href="#features"
+            href="/features"
             className="relative text-foreground/80 hover:text-foreground transition-all duration-300 group px-3 py-1 rounded-lg hover:bg-foreground/5 transform hover:scale-110 hover:rotate-1 hover:skew-x-1"
           >
             Features

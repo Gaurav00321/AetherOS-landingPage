@@ -1,6 +1,6 @@
 "use client";
 
-import LaserFlow from "../../components/LaserFlow";
+import LaserFlow from "../../components/laserflow";
 import { useRef } from "react";
 
 // Image Example Interactive Reveal Effect
